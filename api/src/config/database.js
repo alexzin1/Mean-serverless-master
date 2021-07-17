@@ -8,7 +8,7 @@
 module.exports = {
   local:
   {
-    localUrl: 'mongodb+srv://adm123:<password>@projetodb.p4hhn.mongodb.net/dbsite',
+    localUrl: 'mongodb+srv://<pegar link no mongoDB compass',
   },
 
   //localUrl: 'mongodb://localhost:27017/meanserverless'
