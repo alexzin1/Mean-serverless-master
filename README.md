@@ -1,5 +1,7 @@
-# Mean-serverless-master 
-Usando MongoDB compass, angular, expressJS, NodeJS.
+# Mean-serverless-master  - Cadastro de funcionarios com sistema de Login/Senha
+
+Desenvolvido com MongoDB compass, angular, expressJS, NodeJS.
+
 
 
 **INSTALAÇÃO
